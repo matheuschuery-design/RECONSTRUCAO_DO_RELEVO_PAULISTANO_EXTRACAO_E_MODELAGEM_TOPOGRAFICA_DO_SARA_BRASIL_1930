@@ -7,7 +7,7 @@ Faculdade de Arquitetura e Urbanismo e de Design
 Universidade de São Paulo (FAU-USP)
 
 Autor: Matheus Chuery Pinto
-Período: 2025–2027
+2026
 Contato: matheuschuery@usp.br
 
 O presente trabalho foi realizado com apoio do Conselho Nacional de
@@ -216,7 +216,7 @@ O conteúdo deste projeto é disponibilizado para fins acadêmicos, de pesquisa 
 
 FORMA SUGERIDA DE CITAÇÃO
 
-CHUERY PINTO, Matheus. Reconstrução do Relevo Paulistano: extração automática de curvas de nível do mapeamento Sara Brasil (1930) e geração de Modelos Digitais de Terreno. Dissertação (Mestrado em Arquitetura e Urbanismo) — Faculdade de Arquitetura, Urbanismo e de Design, Universidade de São Paulo, São Paulo, 2027.
+CHUERY PINTO, Matheus. Reconstrução do Relevo Paulistano: extração automática de curvas de nível do mapeamento Sara Brasil (1930) e geração de Modelos Digitais de Terreno. 2026. Dataset. Disponível em: https://doi.org/10.6084/m9.figshare.34625889. 
 
 ## 11. AGRADECIMENTOS
 
