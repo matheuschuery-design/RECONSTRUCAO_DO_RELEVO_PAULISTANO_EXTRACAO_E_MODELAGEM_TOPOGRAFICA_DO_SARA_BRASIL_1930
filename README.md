@@ -214,9 +214,19 @@ Geração de mapas de sombreamento, declividade e representações altimétricas
 
 O conteúdo deste projeto é disponibilizado para fins acadêmicos, de pesquisa e educacionais, desde que o autor seja devidamente citado. Consulte a licença do repositório para verificar as condições de redistribuição e uso comercial.
 
-FORMA SUGERIDA DE CITAÇÃO
+FORMA SUGERIDA DE CITAÇÃO 
 
-CHUERY PINTO, Matheus. Reconstrução do Relevo Paulistano: extração automática de curvas de nível do mapeamento Sara Brasil (1930) e geração de Modelos Digitais de Terreno. 2026. Dataset. Disponível em: https://doi.org/10.6084/m9.figshare.34625889. 
+ABNT:
+
+PINTO, Matheus Chuery. Reconstrução do relevo paulistano: extração e modelagem topográfica do Sara Brasil (1930). São Paulo, 2026. Dataset. DOI: https://doi.org/10.6084/m9.figshare.34625889.
+
+APA:
+
+Pinto, M. C. (2026). Reconstrução do relevo paulistano: Extração e modelagem topográfica do Sara Brasil (1930) [Dataset]. Figshare. https://doi.org/10.6084/m9.figshare.34625889
+
+IEEE:
+
+[1] M. C. Pinto, “Reconstrução do relevo paulistano: extração e modelagem topográfica do Sara Brasil (1930),” Figshare, 2026. [Dataset]. https://doi.org/10.6084/m9.figshare.34625889.
 
 ## 11. AGRADECIMENTOS
 
