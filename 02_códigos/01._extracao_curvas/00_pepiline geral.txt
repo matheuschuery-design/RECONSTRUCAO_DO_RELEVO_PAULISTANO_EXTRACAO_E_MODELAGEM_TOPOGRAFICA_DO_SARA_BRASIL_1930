@@ -1,0 +1,30 @@
+CARTA TOPOGRÁFICA (raster RGB)
+         │
+         ▼
+01_inferir_curvas_unet.py      → gera raster binário (curvas brutas)
+ 	 │                              
+         ▼
+02_extrair_cotas_ocr.py        → extrai valores de cota (pontos)
+ 	 │                              
+         ▼
+03_limpar_curvas.py            → limpa o raster por forma (remove ruído)
+ 	 │                              
+         ▼
+
+04_esqueletizar_vetorizar.py   → esqueletiza + vetoriza (linhas brutas)
+ 	 │                              
+         ▼
+
+05_conectar_gaps.py            → conecta pontas soltas
+ 	 │                              
+         ▼
+
+06_snap_merge.py               → faz snap de extremidades + merge
+ 	 │                              
+         ▼
+
+07_remover_galhos.py           → remove galhos pequenos (esporões)
+	 │                              
+         ▼
+
+08_limpar_topologia_grass.py
