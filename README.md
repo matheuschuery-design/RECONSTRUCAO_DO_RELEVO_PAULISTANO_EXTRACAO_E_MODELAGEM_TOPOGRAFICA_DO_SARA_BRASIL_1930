@@ -1,5 +1,4 @@
 # RECONSTRUÇÃO DO RELEVO PAULISTANO EXTRAÇÃO E MODELAGEM TOPOGRÁFICA DO SARA BRASIL (1930)
-The project reconstructs São Paulo’s historical terrain using the 1930 Sara Brasil survey, combining machine learning and geoprocessing to extract contour lines and generate a Digital Terrain Model (DTM) for analyzing topographic changes over time.
 
 O projeto busca reconstruir o relevo histórico de São Paulo a partir do levantamento cartográfico Sara Brasil, de 1930, por meio de técnicas de geoprocessamento, aprendizado de máquina e automação computacional. O trabalho envolve a extração e vetorização de curvas de nível, o reconhecimento automatizado de cotas altimétricas e a geração de um Modelo Digital do Terreno (MDT). A base produzida constitui uma referência para investigar as transformações da topografia paulistana ao longo do tempo, a partir da comparação entre o relevo histórico e o atual.Todo o código-fonte utilizado neste projeto está sendo disponibilizado publicamente no GitHub.
 
