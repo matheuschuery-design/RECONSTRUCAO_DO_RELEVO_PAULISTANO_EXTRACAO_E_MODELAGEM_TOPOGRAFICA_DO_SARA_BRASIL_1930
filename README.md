@@ -14,7 +14,7 @@ O presente trabalho foi realizado com apoio do Conselho Nacional de
 Desenvolvimento Científico e Tecnológico (CNPq – Brasil) – Processo
 nº 133553/2025-6.
 
-Todo o conteúdo deste projeto é de livre acesso, desde que citado o autor.
+Todo o conteúdo deste projeto é de livre acesso, desde que citado o autor. Os arquivos completos estão disponíveis em https://doi.org/10.6084/m9.figshare.34625889 sob licença CC BY 4.0, que permite a reutilização e a adaptação dos materiais, desde que respeitadas as condições de atribuição.
 
 The project aims to reconstruct the historical terrain of São Paulo using the 1930 Sara Brasil cartographic survey through geoprocessing, machine learning, and computational automation techniques. The workflow involves the extraction and vectorization of contour lines, the automated recognition of elevation values, and the generation of a Digital Terrain Model (DTM). The resulting dataset provides a foundation for investigating changes in São Paulo’s topography over time by comparing historical and present-day terrain models. All source code used in this project is being made publicly available on GitHub.
 
